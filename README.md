@@ -14,8 +14,3 @@ Admin,2023.Peanut Butter Cookie Recipes.Available at <https://www.crazyforcrust.
 **Baking Tips References:**
 
 Baking Kneads,2024.12 Must-Know Tips For Baking Perfect Cookies[online] Available at:<https://www.bakingkneads.com/tips-for-baking-perfect-cookies/>[Accessed 5 April 2025].
-
-
-**Contact Us References**
-
-ChatGPT. 2025. Chat-GPT (Versio 1.2025.084). [GPT-4o model]. Available at: https://openai.com/ [Accessed: 5 April 2026].
